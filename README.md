@@ -7,4 +7,8 @@ CIFAR dataset contains 10 classes that are 'airplane', 'automobile', 'bird', 'ca
 I have uploded the ipython(jupyter notebook) and simple python file.
 In Ipython file every cell is completely explained in detail.
 
-Dependencies Used:
+#Dependencies Used:
+1. Torch
+2. Numpy
+3. torchvision(dataset)
+4. matplotlib (visualize)
