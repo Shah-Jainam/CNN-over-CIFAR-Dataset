@@ -5,7 +5,7 @@ Implemented Neural Network on CIFAR dataset to classify images from different cl
 CIFAR dataset contains 10 classes that are 'airplane', 'automobile', 'bird', 'cat', 'deer', 'dog', 'frog', 'horse', 'ship', 'truck'.
 
 I have uploded the ipython(jupyter notebook) and simple python file.
-In Ipython file every cell is completely explained in detail.
+In jupyter notebook file every cell is completely explained in detail.
 
 # Dependencies Used:
 1. Torch
